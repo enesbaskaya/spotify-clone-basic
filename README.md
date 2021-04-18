@@ -4,8 +4,8 @@ is a simple spotify application clone. It plays the music in the app along with 
 
 ## Project
 <img src="assets/ss/1.png" width="200" height="400" />
-![](assets/ss/2.png)
-![](assets/ss/3.png)
+<img src="assets/ss/2.png" width="200" height="400" />
+<img src="assets/ss/3.png" width="200" height="400" />
 
 
 ## Getting Started
