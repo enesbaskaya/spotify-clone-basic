@@ -3,7 +3,7 @@
 is a simple spotify application clone. It plays the music in the app along with the basic interface. It can be developed and adapted for music captured through the api.
 
 ## Project
-![](assets/ss/1.png)
+![](assets/ss/1.png=200x400)
 ![](assets/ss/2.png)
 ![](assets/ss/3.png)
 
