@@ -3,9 +3,9 @@
 is a simple spotify application clone. It plays the music in the app along with the basic interface. It can be developed and adapted for music captured through the api.
 
 ## Project
-![](assets/ss/1.PNG)
-![](assets/ss/2.PNG)
-![](assets/ss/3.PNG)
+![](assets/ss/1.png)
+![](assets/ss/2.png)
+![](assets/ss/3.png)
 
 
 ## Getting Started
